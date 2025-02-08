@@ -1,4 +1,4 @@
-const input = require('prompt-sync')();
+const input = require('prompt-sync')()
 
 function main() {
     const choices = ['rock', 'paper', 'scissors'];

@@ -5,9 +5,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahahrun/rock-paper-scissors.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahahrun/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/ahahrun/rock-paper-scissors#readme",
   "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0"
